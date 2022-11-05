@@ -1,0 +1,10 @@
+sources:
+- Group Fitness Competitions
+templates:
+- sourcery/templates
+output:
+  "Group Fitness Competitions/Sourcery"
+args:
+  autoMockableImports:
+    - Combine
+    - HealthKit
